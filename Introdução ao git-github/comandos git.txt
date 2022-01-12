@@ -1,0 +1,4 @@
+git add . - adiciona todos os arquivos alterados no status stage
+git commit -m "comentario" - envia os arquivos para o repositorio
+git status - exibe as alterações e estados dos arquivos
+git clone caminho do repositorio - clona os arquivos do repositorio
