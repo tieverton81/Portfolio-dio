@@ -6,7 +6,7 @@ body {
 }
 
 .quem-somos {
-    background-color: #D5D8DC;
+    background-color: #2ECC71;
     color: white;
 }
 
@@ -17,5 +17,14 @@ body {
 }
 
 .parceiros {
-    background-color: #D6EAF8;
+    background-color: #85C1E9;
+}
+
+.servicos {
+    background-color: #F8C471;
+}
+
+.bg-footer {
+    background-color: #000;
+    color: #fff;
 }
